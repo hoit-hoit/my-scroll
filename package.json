@@ -7,10 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy":"yarn build && gh-pages -d dist"
+    "deploy": "yarn build && gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
+    "sass": "^1.85.1",
     "vue": "^3.5.13"
   },
   "devDependencies": {

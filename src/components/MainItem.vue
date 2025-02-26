@@ -1,6 +1,8 @@
 <template>
   <div>
     <h2>스크롤 구현 연습</h2>
+    <p>안녕하세요</p>
+    <h3>반갑습니다.</h3>
    <Subitem/>
   </div>
 </template>
