@@ -1,14 +1,15 @@
 <template>
   <div>
-    <h1>My Scroll</h1>
-    <MainItem/>
+<h3>Sub Scroll</h3>
   </div>
 </template>
 
 <script setup>
-import MainItem from './components/MainItem.vue';
+
 </script>
 
 <style lang="scss" scoped>
-
+h3{
+  color: darkcyan;
+}
 </style>
